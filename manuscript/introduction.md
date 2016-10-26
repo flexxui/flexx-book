@@ -82,6 +82,8 @@
 
 ## Building widgets from scratch
 
+## Theming
+
 ## Patterns
 
 Certain patterns that can be used in developing applications, most examples
