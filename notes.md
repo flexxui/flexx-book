@@ -11,3 +11,10 @@ explain some Python stuff like decorators. Yet it should also be interesting
 for more advanced Flexx users.
 
 Include reference docs?
+
+Asides?
+
+Get a domain name for a landing page to link to github, docs, book, etc.
+
+All topics in the book should in principle be documented in the reference docs.
+

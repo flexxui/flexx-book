@@ -9,7 +9,6 @@ Links:
 
 * The books landing page: https://leanpub.com/flexx/
 * A sample can be read here: https://leanpub.com/flexx/read
-* More links will follow after the first "publication"
 
 Want to help? You can create an issue if you think something is missing
 (note that at this point a lot is missing ;) ). You can fix typos in the
